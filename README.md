@@ -1,2 +1,2 @@
 # Deteccion_fraude_final
-Identificación de los fraudes en las trasacciones historicas de los clientes
+Este modelo permite analizar de forma detallada un dataset de información de transacciones financieras de clientes en linea, El objetivo principal es identificar patrones que permitan diferencias transacciones legitimas y fraudulentas. Además se plantea el desarrollo de un modelo predictivo basado en las variables del dataset que ayua a predecir la probabilidad de que una transacción sea frauulenta.
